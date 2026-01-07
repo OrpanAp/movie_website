@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@layer base;
+@layer components;
+@layer utilities;
