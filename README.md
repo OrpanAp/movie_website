@@ -1,6 +1,7 @@
 # 🎬 Movie Website
 
-A movie website built with JavaScript and Vite that fetches real-time movie data from **TMDB (The Movie Database) API**.
+
+A movie website built with **React and Vite** that fetches real-time movie data from **TMDB (The Movie Database) API**.
 
 ---
 
@@ -8,14 +9,15 @@ A movie website built with JavaScript and Vite that fetches real-time movie data
 
 - Browse trending and popular movies  
 - Fetch real-time movie data from TMDB API  
-- Movie posters, titles, and ratings display  
+- Display posters, titles, and ratings  
+- Responsive UI  
 - Fast development with Vite  
-- Easy to customize UI  
 
 ---
 
 ## 🧩 Tech Stack
 
+- ⚛️ React  
 - ⚡ Vite  
 - 🟨 JavaScript  
 - 🔹 HTML  
